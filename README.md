@@ -1,11 +1,11 @@
-About r-rmisc
-=============
+About r-rmisc-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rmisc-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=Rmisc
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rmisc-feedstock/blob/main/LICENSE.txt)
 
 Summary: The Rmisc library contains many functions useful for data analysis and utility operations.
 
